@@ -4,6 +4,7 @@ class Gedit < Formula
   url "https://download.gnome.org/sources/gedit/46/gedit-46.2.tar.xz"
   sha256 "c0866412bad147ebace2d282ffcbb5a0e9a304b20fd55640bee21c81e6d501ef"
   license "GPL-2.0-or-later"
+  revision 1
 
   bottle do
     sha256 arm64_sonoma:   "8f2cfff223961d0c42ef7b773cd7c340bb97c348ab86080b01f72c311c066c41"
